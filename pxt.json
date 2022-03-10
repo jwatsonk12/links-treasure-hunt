@@ -1,0 +1,47 @@
+{
+    "name": "Link's Treasure Hunt",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.8.11",
+        "tag": "v0.8.11",
+        "commits": "https://github.com/Microsoft/pxt-arcade/commits/4fd9b141be74c8d0598da91bb0e9a62e81cd039b",
+        "target": "1.8.22",
+        "pxt": "5.6.8",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#084828",
+        "#20B048",
+        "#60B820",
+        "#F8F888",
+        "#C87020",
+        "#1830F8",
+        "#F81858",
+        "#B0C8F8",
+        "#F8B030",
+        "#D80000",
+        "#283050",
+        "#8888A0",
+        "#8F7FA4",
+        "#6CFF2D",
+        "#170e19"
+    ]
+}
